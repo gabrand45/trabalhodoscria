@@ -1,0 +1,13 @@
+header{
+    border: 2px solid rgb(0, 255, 242);
+    width: 95vw;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(38, 7, 151);
+    padding: 20px;
+    
+
+
+}
